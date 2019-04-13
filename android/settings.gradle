@@ -1,0 +1,3 @@
+rootProject.name = 'iyd_gp'
+
+include ':app'
